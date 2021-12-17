@@ -1,7 +1,7 @@
 {
-  "name": "node-js-getting-started",
+  "name": "space-mines-web",
   "version": "0.3.0",
-  "description": "A sample Node.js app using Express 4",
+  "description": "A Three JS front end to Space Mines",
   "engines": {
     "node": "14.x"
   },
@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/heroku/node-js-getting-started"
+    "url": "https://github.com/space-mines/space-mines-web"
   },
   "keywords": [
     "node",
